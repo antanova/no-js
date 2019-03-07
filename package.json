@@ -1,0 +1,15 @@
+{
+  "name": "no-js",
+  "version": "1.0.0",
+  "description": "Change a `no-js` class in the `<html>` element to `js`. Use only in the browser, of course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "browser"
+  ],
+  "author": "JCrosse",
+  "license": "ISC"
+}
